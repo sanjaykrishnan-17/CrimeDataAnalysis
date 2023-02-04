@@ -1,0 +1,18 @@
+    Crime is a social problem that disturbs the peace and tranquillity of society. It can be 
+inferred from the National Crime Record Bureau (NCRB) data that urban areas, particularly 
+metropolitan cities, are more prone to crime in comparison to their rural counterparts. As 
+per the 2011 census, about 13% population of the country is residing in metropolitan 
+cities while their contribution to total crime incidents was about 28% in 2015. Apositive 
+correlation (+0.69) between city size and the crime rate is also recorded during the 
+reference year. Fifty-three metropolitan cities reported in the 2011 census are facing a 
+differential rate of crime. National Crime Record Bureau (NCRB) publishes year-wise data of 
+crime in India, which also contain data of all metropolitan cities. Based on NCRB data, the 
+incidents and rate of IPC crimes, violent crimes, and the crime against women in metropolitan 
+cities are analyzed in the study. It is found that metropolitan cities of northern and central 
+India having a higher rate of crime in comparison to other cities. The nature of crime also 
+varies considerably in these cities as incidents of violent crime and crime against 
+women are disproportionately high in the cities of Hindi speaking states. Many relatively 
+small metropolitan cities have a comparatively higher rate of IPC crimes, violent crimes, 
+and crimes against women. The impact of metropolitan cities on the total crime of their 
+respective states has been analyzed, and it is evident that in many states, particularly 
+central Indian states, crime is highly concentrated in metropolitan cities.
